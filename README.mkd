@@ -1,0 +1,9 @@
+# pprocess
+
+push to push over
+
+```
+$ go get github.com/rosylilly/pprocess
+$ echo "test | pprocess
+$ pprocess -m "おわったー"
+```
